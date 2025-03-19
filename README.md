@@ -2,7 +2,13 @@
 
 ## Hey! Nice to see you.
 
-I'm a passionate Full Stack Developer with a deep affection for JavaScript and all its associated frameworks.
+I'm a results-driven **Full-Stack Developer** with over **13 years of experience** building **scalable, high-performance** web applications. My expertise spans **frontend, backend, databases, DevOps, and integrations**, ensuring **secure, efficient, and maintainable** solutions.  
+
+- **Frontend:** React, Next.js, Vue, Nuxt.js, Quasar, Tailwind CSS  
+- **Backend:** Node.js, Express, Nest.js, Laravel, CodeIgniter  
+- **Databases & Cloud:** MongoDB, MySQL, PostgreSQL, Firebase, AWS, Docker, CI/CD  
+- **Tools & Testing:** Jest, Cypress, GitHub Actions, GitLab CI, Agile, Scrum  
+- **Integrations:** PayPal, Stripe, Twilio, SendGrid, Social APIs  
 
 ## Find me on:
 
